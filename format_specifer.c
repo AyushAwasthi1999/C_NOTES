@@ -1,0 +1,10 @@
+// FORMAT SPECIFIER IN C 
+
+/*
+    %C :- CHARACTER
+    %d :- INTEGER
+    %f :- FLOATING POINT NUMBER
+    %l :- LONG INTERGER
+    %lf :- DOUBLE
+    %LF :- LONG DOUBLE
+*/
