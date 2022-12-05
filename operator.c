@@ -1,1 +1,15 @@
-// OPERATOR
+// DEFINE :- OPERATOR ?
+
+// :- An Operator is a symbol used tp perform operations in given programming languages
+
+
+// TYPE  OF OPERATOR IN C LANGUAGE
+
+/*
+01 :- ARITHMETIC OPERATOR
+02 :- RELATIONAL OPERATOR
+03 :- LOGICAL OPERATOR
+04 :- BITWIS OPERATOR
+05 :- ASSIGNMENT OPERATOR
+06 :- MISCELLENEOUS OPERATOR
+*/
