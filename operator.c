@@ -3,7 +3,7 @@
 // :- An Operator is a symbol used tp perform operations in given programming languages
 
 
-// TYPE  OF OPERATOR IN C LANGUAGE
+// TYPE  OF OPERATOR IN C LANGUAGES
 
 /*
 01 :- ARITHMETIC OPERATOR
